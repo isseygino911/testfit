@@ -11,7 +11,7 @@ import SwiftUI
 struct testfitApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashView()
         }
     }
 }
